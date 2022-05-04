@@ -1,2 +1,2 @@
 # pandas-python-
-summuay to learn data analysis with python and pandas 
+summuay help u to learn data analysis with python and pandas 
